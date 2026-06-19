@@ -27,8 +27,9 @@ Hospital Patient Registry is a simple Node.js and Express-based web application 
 1. Enter Patient Name.
 2. Select Admission Date.
 3. Enter Illness Name.
-4. Click "Register Patient".
-5. Click "Show Registered Patients" to view saved records.
+4. All required details.
+5. Click "Register Patient".
+6. Click "Show Registered Patients" to view saved records.
 
 ## Author
 Neha Duggal
