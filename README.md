@@ -33,4 +33,4 @@ Hospital Patient Registry is a simple Node.js and Express-based web application 
 ## Author
 Neha Duggal
 
-Neha Duggal
+
