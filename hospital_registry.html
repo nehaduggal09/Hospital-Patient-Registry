@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="container">
-    <h2>🏥 Hospital Patient Registry</h2>
+    <h2>🏥 MediTrack System </h2>
 
     <form action="/register" method="POST">
 
@@ -14,13 +14,48 @@
         <input type="text" name="name" required>
 
         <br><br>
+        <label>Age:</label>
+        <input type="number" name="age" min="1" max="120" required>
+
+        <br><br>
+
+        <label>Gender:</label>
+        <select name="gender" required>
+            <option value="">Select Gender</option>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other</option>
+        </select>
+
+        <br><br>
+
+        <label>Date of Birth:</label>
+        <input type="date" name="dob" required>
+
+        <br><br>
+
+        <label>Mobile Number:</label>
+        <input type="tel" name="mobile" pattern="[0-9]{10}" required>
+
+        <br><br>
+
+        <label>Email:</label>
+        <input type="email" name="email" required>
+
+        <br><br>
+
+        <label>Address:</label>
+        <textarea name="address" rows="3" required></textarea>
+
+        <br><br>
+
 
         <label>Date of Admission:</label>
         <input type="date" name="date" required>
 
         <br><br>
 
-        <label>Illness Name:</label>
+        <label>Illness/Disease Name:</label>
         <input type="text" name="illness" required>
 
         <br><br>
