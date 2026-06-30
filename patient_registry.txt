@@ -9,3 +9,15 @@ Address: naveen nagar,sre
 Admission Date: 2026-05-22
 Disease: leg pain
 ----------------------------------------
+
+Patient No: 2
+Patient Name: komal
+Age: 24
+Gender: Female
+Date of Birth: 2002-06-11
+Mobile Number: 9876543245
+Email: komal@gmail.com
+Address: kapil vihar
+Admission Date: 2026-06-24
+Disease: panic attack
+----------------------------------------
