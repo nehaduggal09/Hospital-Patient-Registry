@@ -1,37 +1,45 @@
-# Hospital Patient Registry
+# 🏥 Hospital Patient Registry
 
-## Project Description
+A Hospital Patient Registry System built using Node.js and MongoDB for managing patient records efficiently.
 
-Hospital Patient Registry is a simple Node.js and Express-based web application that allows hospital staff to register patient details and view registered patients.
+## 🚀 Features
 
-## Features
+- Add new patient records
+- View all registered patients
+- Store patient information permanently in MongoDB
+- Simple and easy-to-use backend structure
+- REST API support for patient management
 
-* Register a new patient
-* Store patient information in a text file
-* View all registered patients
-* Simple and user-friendly interface
-* Responsive and attractive design using CSS
+## 🛠️ Technologies Used
 
-## Technologies Used
+- Node.js
+- Express.js
+- MongoDB
+- MongoDB Atlas
+- MongoDB Compass
+- Git & GitHub
+- Render (for deployment)
 
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* Express.js
-* File System (fs) Module
+  ## ☁️ Database
 
+This project uses **MongoDB Atlas** as the cloud database service for storing patient records securely and efficiently.
 
-## Usage
+## 🚀 Deployment
 
-1. Enter Patient Name.
-2. Select Admission Date.
-3. Enter Illness Name.
-4. All required details.
-5. Click "Register Patient".
-6. Click "Show Registered Patients" to view saved records.
+The application is deployed on Render.
 
-## Author
+Live Demo:
+
+https://hospital-patient-registry-tged.onrender.com
+
+## 📌 Future Improvements
+
+- Update patient details
+- Delete patient records
+- Search patients by ID or name
+- Authentication and authorization
+- Frontend integration
+
+## 👩‍💻 Author
+
 Neha Duggal
-
-
